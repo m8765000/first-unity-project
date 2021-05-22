@@ -9,5 +9,8 @@
 오른쪽 상단에 정지 버튼
 정지 버튼 작동시 홈화면, 볼륨 조절, 이어하기 버튼이 구현 되어있습니다.
 
+
+![image](https://user-images.githubusercontent.com/62591497/119225764-d4f41880-bb40-11eb-932f-2de3eaa800bf.png)
+
 ![image](https://user-images.githubusercontent.com/62591497/119225741-aa09c480-bb40-11eb-9c27-073c6da7dafa.png)
 
