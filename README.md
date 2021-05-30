@@ -395,7 +395,7 @@ public class OneCommand : MonoBehaviour {
 ![슬라이드23](https://user-images.githubusercontent.com/62591497/120106255-4e21ea00-c197-11eb-961d-5965bb177110.PNG)
 ![슬라이드24](https://user-images.githubusercontent.com/62591497/120106258-4eba8080-c197-11eb-8bef-1bca2041cd19.PNG)
 ![슬라이드25](https://user-images.githubusercontent.com/62591497/120106259-4eba8080-c197-11eb-9e92-aff4aa30800e.PNG)
-![슬라이드26](https://user-images.githubusercontent.com/62591497/120106260-4f531700-c197-11eb-8609-dbe86e0cffad.PNG)
+![Inked슬라이드26_LI](https://user-images.githubusercontent.com/62591497/120107476-1bc6bb80-c19c-11eb-88d8-f9d989c3e3d0.jpg)
 ![슬라이드27](https://user-images.githubusercontent.com/62591497/120106261-4f531700-c197-11eb-8193-251e936c93b9.PNG)
 ![슬라이드28](https://user-images.githubusercontent.com/62591497/120106262-4febad80-c197-11eb-9c89-5150c2d5a214.PNG)
 ![슬라이드29](https://user-images.githubusercontent.com/62591497/120106264-4febad80-c197-11eb-9150-b3829baa6c12.PNG)
