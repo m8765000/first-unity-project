@@ -345,8 +345,6 @@ public class OneCommand : MonoBehaviour {
     }
 
 
-
-
     public void ReStartbt()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -371,3 +369,6 @@ public class OneCommand : MonoBehaviour {
         PlayerSound_4.volume = volume.value;
     }
 }
+
+
+[변경된 부분.pptx](https://github.com/m8765000/first-unity-project/files/6566270/default.pptx)
