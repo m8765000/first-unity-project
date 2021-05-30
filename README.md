@@ -370,5 +370,15 @@ public class OneCommand : MonoBehaviour {
     }
 }
 
+![슬라이드1](https://user-images.githubusercontent.com/62591497/120106206-29c60d80-c197-11eb-8d54-33f8624be6c5.PNG)
 
-[변경된 부분.pptx](https://github.com/m8765000/first-unity-project/files/6566270/default.pptx)
+
+![슬라이드2](https://user-images.githubusercontent.com/62591497/120106211-2cc0fe00-c197-11eb-8c41-e891fbb35b2f.PNG)
+
+
+![슬라이드3](https://user-images.githubusercontent.com/62591497/120106218-33e80c00-c197-11eb-9b63-0d070a062035.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/62591497/120106219-3480a280-c197-11eb-8556-1fc499f2aece.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/62591497/120106220-3480a280-c197-11eb-9c3e-76dd32a6a59c.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/62591497/120106221-35193900-c197-11eb-9755-4f95c6db562b.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/62591497/120106222-35193900-c197-11eb-8ae4-b176da9095ed.PNG)
+
