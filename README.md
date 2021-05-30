@@ -369,14 +369,13 @@ public class OneCommand : MonoBehaviour {
         PlayerSound_4.volume = volume.value;
     }
 }
-
+![슬라이드1](https://user-images.githubusercontent.com/62591497/120108944-50d60c80-c1a2-11eb-86c5-0abea3cc0b38.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/62591497/120106211-2cc0fe00-c197-11eb-8c41-e891fbb35b2f.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/62591497/120106218-33e80c00-c197-11eb-9b63-0d070a062035.PNG)
 ![슬라이드4](https://user-images.githubusercontent.com/62591497/120106219-3480a280-c197-11eb-8556-1fc499f2aece.PNG)
 ![슬라이드5](https://user-images.githubusercontent.com/62591497/120106220-3480a280-c197-11eb-9c3e-76dd32a6a59c.PNG)
 ![슬라이드6](https://user-images.githubusercontent.com/62591497/120106221-35193900-c197-11eb-9755-4f95c6db562b.PNG)
 ![슬라이드7](https://user-images.githubusercontent.com/62591497/120106222-35193900-c197-11eb-8ae4-b176da9095ed.PNG)
-![슬라이드8](https://user-images.githubusercontent.com/62591497/120106237-49f5cc80-c197-11eb-9074-bc7cee45efb8.PNG)
 ![슬라이드9](https://user-images.githubusercontent.com/62591497/120106239-49f5cc80-c197-11eb-89fe-d27c2d1a9568.PNG)
 ![슬라이드10](https://user-images.githubusercontent.com/62591497/120106240-4a8e6300-c197-11eb-9fa7-b992c3277e94.PNG)
 ![슬라이드11](https://user-images.githubusercontent.com/62591497/120106241-4a8e6300-c197-11eb-99de-321d96f9a11d.PNG)
